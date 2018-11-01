@@ -10,6 +10,6 @@ All AMP URL's with 404 error will be redirected to relevent page by using 301 Re
 
 
 This plugin support following plugins:
-- Better AMP by BetterStudio
+- Better AMP by BetterStudio https://betterstudio.com/wp-plugins/better-amp/
 - WP AMP official plguin
 - AMP for WP plugin
